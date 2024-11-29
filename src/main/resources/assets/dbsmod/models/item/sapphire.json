@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:items/generated",
   "textures": {
-    "layer0": "dbsmod:item/sapphire"
+    "layer0": "dbsmod:item/sapphire.png"
   }
 }
