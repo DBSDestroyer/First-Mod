@@ -1,4 +1,4 @@
-package net.DBS_Destroyer.Mod.examplemod;
+package net.DBS_Destroyer.Mod;
 
 import com.mojang.logging.LogUtils;
 import net.minecraftforge.api.distmarker.Dist;

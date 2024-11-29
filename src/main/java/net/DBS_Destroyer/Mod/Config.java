@@ -1,4 +1,4 @@
-package net.DBS_Destroyer.Mod.examplemod;
+package net.DBS_Destroyer.Mod;
 
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.item.Item;
